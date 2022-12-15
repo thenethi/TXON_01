@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg {
+    background-image: url("https://img.freepik.com/free-vector/red-background-with-fireworks-diwali_1017-4459.jpg?w=740&t=st=1666539421~exp=1666540021~hmac=9aabb3213a479ad94b9db1f9de9f6417d2b10c83d1faf910e7d7c31b87767747");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.mainhead {
+    color: white;
+    font-family: 'Bree Serif';
+    font-style: italic;
+    text-align: left;
+    padding: 30px;
+}
+
+.mainpara {
+    color: gray;
+    font-size: 20px;
+    font-family: 'Bree Serif';
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+}
+
+.cardd {
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.cardd-head {
+    padding: 10px;
+    font-family: 'Roboto';
+    font-style: italic;
+}
+
+.cardd-para {
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-style: italic;
+}
+
+.bn {
+    background-color: #3368FF;
+    color: white;
+    font-family: 'Bree Serif';
+    border-radius: 10px
+}
+
+.bg2 {
+    text-align: center;
+    background-color: black;
+    background-size: cover;
+}
+
+.main-head2 {
+    color: white;
+    padding: 20px;
+    font-family: 'Bree Serif';
+    font-style: italic;
+}
+
+.para-info {
+    color: gray;
+    margin: 10px;
+    font-family: 'Roboto';
+    text-align: left;
+}
+
+.bu {
+    margin: 10px;
+}
+
+.bu1 {
+    margin: 20px;
+}
+
+.bg3 {
+    background-color: black;
+    background-size: cover;
+    text-align: center;
+}
+
+.main-head3 {
+    color: white;
+    padding: 10px;
+    font-family: 'Bree Serif';
+    font-style: italic;
+    text-align: left;
+}
+
+.main-h3 {
+    color: #DFDFDF;
+    padding: 10px;
+    font-family: 'Roboto';
+    text-align: left;
+}
+
+.main-para3 {
+    padding: 10px;
+    color: gray;
+    font-family: 'Roboto';
+    text-align: left;
+}
+
+.bn3 {
+    margin: 10px;
+}
+
+.bg4 {
+    background-image: url("https://img.freepik.com/free-vector/shiny-diwali-crackers-firework-celebration-illustration_1017-21580.jpg?w=2000");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.main-head4 {
+    color: white;
+    padding: 20px;
+    font-family: 'Bree Serif';
+    font-style: italic;
+}
+
+.card4 {
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.list4 {
+    color: white;
+    text-align: left;
+}
+
+.image4 {
+    height: 100px;
+    width: 80px;
+}
+
+.bn4 {
+    margin: 10px;
+}
+
+.bg5 {
+    background-image: url("https://res.cloudinary.com/de2lwnsu7/image/upload/v1666543285/main_mdgdyn.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.main-head5 {
+    font-family: 'Caveat';
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+
+.main-para500 {
+    color: white;
+    font-family: 'Caveat';
+    font-size: 25px;
+}
+
+.main-para5 {
+    font-family: 'Caveat';
+    color: gray;
+    font-size: 25px;
+}
+
+.bn5 {
+    margin: 20px;
+}
